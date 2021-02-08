@@ -1,3 +1,7 @@
+## Sourav Bhadra
+
+I am a PhD student in GeoInformatics at [Saint Louis University](https://www.slu.edu/), MO, USA. My research focuses on **remote sensing and machine learning applications in food insecurity**. I also work as a Research Assistant in [Remote Sensing Lab](http://www.remotesensinglab.org/) of [GeoSLU](https://www.slu.edu/geoslu/index.php).
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
